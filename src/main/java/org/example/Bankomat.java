@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Bankomat {
 
-   public Bank bank;
+    public Bank bank;
 
     public Bankomat() {
     this.bank = new Bank();
